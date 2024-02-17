@@ -1,5 +1,5 @@
 <h1>DroidJobs</h1><br>
-##
+
 Android job finder app, connecting you with the latest opportunities in the world of Android development
 ##
 ##
